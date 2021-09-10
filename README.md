@@ -8,3 +8,6 @@
 
 3 - Install needed packages
 `npm install -D husky @commitlint/{config-conventional, cli} prettier lint-staged`
+
+
+check for husky https://github.com/conventional-changelog/commitlint#readme
