@@ -1,9 +1,8 @@
 # Test Commitizien
 
 1 - First install commitizien as global tool
-`npm install commitizen -D -g `
+npx commitizen init cz-conventional-changelog --save-dev --save-exact
 
-2 - Init project to use conventional `commitizen init cz-conventional-changelog --save-dev --save-exact`
 
 
 3 - Install needed packages
@@ -15,4 +14,4 @@ check for husky https://github.com/conventional-changelog/commitlint#readme
 
 npx husky add .husky/prepare-commit-msg "exec < /dev/tty && git cz --hook || true"
 
-VSC code Extension https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits
+VSC code Extension https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits:
