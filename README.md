@@ -11,3 +11,8 @@
 
 
 check for husky https://github.com/conventional-changelog/commitlint#readme
+
+
+npx husky add .husky/prepare-commit-msg "exec < /dev/tty && git cz --hook || true"
+
+VSC code Extension https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits
