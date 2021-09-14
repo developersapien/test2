@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/developersapien/test2/compare/v1.0.2...v1.0.3) (2021-09-14)
+
+
+### Bug Fixes
+
+* **commit:** commit lint fixes ([d79316d](https://github.com/developersapien/test2/commit/d79316d4b7e096bb60044f31ab21f85d04e9501c))
+
 ## [1.0.2](https://github.com/developersapien/test2/compare/v1.0.1...v1.0.2) (2021-09-14)
 
 
