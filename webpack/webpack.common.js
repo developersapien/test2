@@ -1,4 +1,3 @@
-const { DefinePlugin } = require("webpack");
 const CopyPlugin = require("copy-webpack-plugin");
 const path = require("path");
 
@@ -50,6 +49,5 @@ module.exports = {
     new CopyPlugin({
       patterns: [{ from: "src/assets", to: "./assets" }],
     }),
-    new DefinePlugin(),
   ],
 };
