@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/developersapien/test2/compare/v1.0.1...v1.0.2) (2021-09-14)
+
+
+### Bug Fixes
+
+* **npm:** removed ([3303b8f](https://github.com/developersapien/test2/commit/3303b8f315815ff374a4fedbf1c623fecb590235))
+* **realease:** release files changed ([872c389](https://github.com/developersapien/test2/commit/872c3899927e29ef003c8c5d8881e6a77f5d5ef4))
+
 ## [1.0.1](https://github.com/developersapien/test2/compare/v1.0.0...v1.0.1) (2021-09-14)
 
 
