@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/developersapien/test2/compare/v1.0.0...v1.0.1) (2021-09-14)
+
+
+### Bug Fixes
+
+* **ts:** some other changeds ([b5df2c7](https://github.com/developersapien/test2/commit/b5df2c7f6f0c8cb25f702d32552593f448bb4d6f))
+
 # 1.0.0 (2021-09-14)
 
 
