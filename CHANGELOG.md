@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/developersapien/test2/compare/v1.0.3...v1.0.4) (2021-09-14)
+
+
+### Performance Improvements
+
+* **deoloyment:** no ([7afda09](https://github.com/developersapien/test2/commit/7afda090d6dcd39a90dcd303dee50964e725ce9d))
+
 ## [1.0.3](https://github.com/developersapien/test2/compare/v1.0.2...v1.0.3) (2021-09-14)
 
 
