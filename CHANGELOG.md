@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/developersapien/test2/compare/v1.0.5...v1.0.6) (2021-09-14)
+
+
+### Bug Fixes
+
+* **file:** nothign ([322155a](https://github.com/developersapien/test2/commit/322155a891ff19a874c25b0bd0909fa3319d3d56))
+
 ## [1.0.5](https://github.com/developersapien/test2/compare/v1.0.4...v1.0.5) (2021-09-14)
 
 
