@@ -1,7 +1,7 @@
 {
-  "name": "noname",
-  "version": "0.0.1",
-  "description": "noname",
+  "name": "marka",
+  "version": "1.0.0",
+  "description": "marka",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --config webpack/webpack.config.js --env env=develop",
