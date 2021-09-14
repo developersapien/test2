@@ -16,11 +16,9 @@
       {
         "assets": [
           "CHANGELOG.md",
-          "package.json",
-          "package-lock.json",
-          "npm-shrinkwrap.json"
+          "package.json"
         ],
-        "message": "${nextRelease.gitTag} released. [skip ci]\n\n${nextRelease.notes}"
+        "message": "${nextRelease.version} released. [skip ci]\n\n${nextRelease.notes}"
       }
     ]
   ]
