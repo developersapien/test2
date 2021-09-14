@@ -7,11 +7,8 @@
     "start": "webpack serve --config webpack/webpack.config.js --env env=develop",
     "build:prod": "webpack --config webpack/webpack.config.js --env env=prod",
     "build:stage": "webpack --config webpack/webpack.config.js --env env=stage",
+    "prepare": "husky install",
     "lint": "eslint --fix \"./src/**/*.{js,jsx,ts,tsx,json}\""
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@git.takeaway.com:scoober/courier-management-dashboard.git"
   },
   "keywords": [],
   "author": "",
@@ -66,7 +63,6 @@
     "husky": "^6.0.0",
     "lint-staged": "^11.1.2",
     "prettier": "^2.4.0",
-    "semantic-release": "^17.4.7",
     "style-loader": "^2.0.0",
     "typescript": "^4.2.4",
     "url-loader": "^4.1.1",
